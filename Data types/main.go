@@ -28,3 +28,4 @@ func main() {
 	m, n = 2, 3
 	fmt.Println(m, n)
 }
+
