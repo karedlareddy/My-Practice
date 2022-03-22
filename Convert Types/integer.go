@@ -37,3 +37,5 @@ func three() {
 	_, err := fmt.Sscan(strVar, &intValue)
 	fmt.Println(intValue, err, reflect.TypeOf(intValue))
 }
+
+
